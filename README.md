@@ -1,4 +1,4 @@
-# Pyber
+# Ride Sharing Market Research
 Acting as Chief Data Strategist for a fledgling ride sharing company offering data-backed guidance on new opportunities for market differentiation.
 
  Code provides Bubble Plot that showcases the relationship between four key variables:
