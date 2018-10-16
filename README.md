@@ -14,4 +14,4 @@ Research also produces three pie charts:
 % of Total Rides by City Type
 % of Total Drivers by City Type
 
-Finally, the research provides conclusions according to data collected in research
+Finally, conclusions are provided according to data collected in research
